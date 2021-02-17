@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Alternote Changelog</title>
+    <link>https://alternoteapp.com/assets/appcast.xml</link>
+    <description>Alternote recent changes.</description>
+    <language>en</language>
+
+<item>
+<title>Version 1.0.18</title>
+<sparkle:releaseNotesLink>http://alternoteapp.com/assets/notes/1018.html</sparkle:releaseNotesLink>
+<pubDate>Mon, 26 Mar 2018 15:33:18 +0000</pubDate>
+<enclosure url="https://alternoteapp.com/assets/downloads/Alternote1018.zip" sparkle:dsaSignature="MEYCIQCqQCUbZaom91GKA/IoLuAw+2yPNmQfToAzLrgEH6v+DAIhANySH9Zl/f9sdIqfGEnWM/5kmqhPo97YowPPazbLAll9" sparkle:shortVersionString="1.0.18" sparkle:version="1018" length="6142924" type="application/octet-stream" />
+</item>
+</channel>
+</rss>
